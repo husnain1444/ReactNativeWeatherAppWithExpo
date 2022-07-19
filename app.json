@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "RNWeatherApp",
+    "slug": "RNWeatherApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/new_icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/new_splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#5E0ACC"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/new_splash.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.husnainsarfraz.RNWeatherApp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
