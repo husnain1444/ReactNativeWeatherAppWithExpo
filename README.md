@@ -8,4 +8,4 @@ Get Data from weather forecast API and display into different screens
 => Mount Date to current day.
 => Switch Temp C to F on toggle.
 
-Language: react-native, JavaScript
+Language: ReactNative, JavaScript
